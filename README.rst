@@ -77,8 +77,7 @@ Badges
 ======
 Adjust the URLs here to point to your own Travis badge!
 
-.. code:: rst
 
-  .. |TRAVIS| image:: https://travis-ci.com/Astro-Kirsty/software-dev.svg?branch=master
-    :alt: Travis Badge
-    :target: https://travis-ci.com/Astro-Kirsty/software-dev
+.. |TRAVIS| image:: https://travis-ci.com/Astro-Kirsty/software-dev.svg?branch=master
+:alt: Travis Badge
+:target: https://travis-ci.com/Astro-Kirsty/software-dev
