@@ -57,7 +57,7 @@ Requirements
 These packages can by installed using ``pip install -r requirements.txt``.
 
 Links to GitHub
----------------
+---------------git pull one filegit pull one file
 
 A key to good testing is automation. During this workshop, we will be linking
 our tests to `codecov <https://codecov.io/>`_ and `Travis <https://travis-ci.com/>`_.
@@ -81,3 +81,7 @@ Adjust the URLs here to point to your own Travis badge!
 .. |TRAVIS| image:: https://travis-ci.com/Astro-Kirsty/software-dev.svg?branch=master
 :alt: Travis Badge
 :target: https://travis-ci.com/Astro-Kirsty/software-dev
+
+
+
+[![codecov](https://codecov.io/gh/Astro-Kirsty/software-dev/branch/master/graph/badge.svg)](https://codecov.io/gh/Astro-Kirsty/software-dev)
