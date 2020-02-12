@@ -1,7 +1,4 @@
-.. code:: rst
-
-    |TRAVIS|
-*Once you have your TRAVIS build running and your badge successfully added down the bottom of the README, you can use the above to add a shiny badge at the top of your repo.*
+|TRAVIS|
 
 
 ***************************************
